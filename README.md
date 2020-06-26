@@ -14,7 +14,7 @@ Pocket volume units in (Å)<sup>3</sup>
 
 For the three regions screened: distal, active, interface, the results are named as follows:
 
-monomer / dimer _ apo / _ region _ rms cluster number _ HTVS.maegz
+monomer / dimer _ apo / _ region _ chain _ rms cluster number _ HTVS.maegz
 
 Simulation methods are described in this manuscript below
 
