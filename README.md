@@ -14,9 +14,7 @@ Pocket volume units in (Å)<sup>3</sup>
 
 For the three regions screened: distal, active, interface, the results are named as follows:
 
-monomer / dimer _ apo / holo<sup>*</sup> _ region _ volume _ docking.maegz
-
-<sup>*</sup>holo refers to simulation carried out with N3 inhibitor from crystal structure bound
+monomer / dimer _ apo / _ region _ rms cluster number _ HTVS.maegz
 
 Simulation methods are described in this manuscript below
 
