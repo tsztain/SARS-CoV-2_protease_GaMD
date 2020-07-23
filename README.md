@@ -1,5 +1,5 @@
 # SARS-CoV-2_protease_GaMD
-GaMD simulation data, pocket analysis, and HTVS starting from PDB ID 6LU7 
+structures from GaMD simulations starting from PDB ID 6LU7 
 
 ### Structures from 2.5 us aggregate GaMD simulations can be found in the folder "Pockets"
 
