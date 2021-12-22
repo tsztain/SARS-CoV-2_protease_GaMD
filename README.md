@@ -25,5 +25,5 @@ Trajectories available upon reasonable request, contact: tsztainp@ucsd.edu
 
 # Citation
 
-Sztain, T., Amaro, R. E., McCammon, J. A. Elucidation of cryptic and allosteric pockets within the SARS-CoV-2 main protease. <i>JCIM</i>. <b>2020</b>.
+Sztain, T., Amaro, R. E., McCammon, J. A. Elucidation of cryptic and allosteric pockets within the SARS-CoV-2 main protease. <i>J. Chem. Inf. Model</i>. <b>61</b>, 3495-3501 (2021).
 
